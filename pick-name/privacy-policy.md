@@ -2,8 +2,6 @@
 layout: default
 title: PickName
 description: Draw whatever you want!
-github:
-  is_project_page: false
 ---
 
 # PickName
@@ -30,4 +28,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 ### Contact Us
 If you have any questions about this Privacy Policy, You can contact us:
 
-By email: pawcioo58@gmail.com
+By email: <pawcioo58@gmail.com>
